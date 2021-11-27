@@ -41,13 +41,4 @@ COWDOGTING
 | :------: | :------: | :------: | :------: |
 | [김영진](https://github.com/jin-Pro) | [민태홍](https://github.com/taehong0-0) | [이윤성](https://github.com/ddaynew365) | [홍한솔](https://github.com/Noelsky-code) |
 | <img src="https://github.com/jin-Pro.png" /> | <img src="https://github.com/taehong0-0.png" /> | <img src="https://github.com/ddaynew365.png" /> | <img src="https://github.com/Noelsky-code.png" /> |
-  ## 🗣 자기소개
-  - ### 김영진
-  > ㅎㅇ 내이름 갓영진 부캠 반박불가 넘버원`
-  - ### 민태홍
-  > ㅎㅇ 내이름 갓태홍 부캠 프로게이머 
-  - ### 이윤성
-  > ㅎㅇ 내이름 갓윤성 부캠 만렙초보자
-  - ### 홍한솔
-  > ㅎㅇ 내이름 갓한솔 그냥 배포기계 눈감고 40초 컷 백엔드? so~ ez 다물어봐
 
