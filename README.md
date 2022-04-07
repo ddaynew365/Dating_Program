@@ -1,6 +1,7 @@
-# 실행 방법
-
-### Client
+# 개요
+화상채팅과 IFrame을 이용한 게임기능이 추가된 소개팅 웹 서비스💖
+웹으로 느끼는 설렘💕온라인 데이팅 서비스 소 . 개 . 팅💑
+<!-- ### Client
 - npm install
 - npm run starts [ 맥북 https ]
 - npm run window-start [ 윈도우 https ]
@@ -11,7 +12,7 @@
 
 ### 주의할 점
 - key.pem , cert.pem , client.env , server.env 필요
-- m1 에서는 Server의 wrtc install 실패 에러
+- m1 에서는 Server의 wrtc install 실패 에러 -->
 
 ---
 
