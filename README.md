@@ -17,7 +17,7 @@
 
 # CowDogTing 
 <p align="center" >
-<img src="https://user-images.githubusercontent.com/64246267/138801849-61178d29-1a9a-4723-bcb9-ac3f5d2ce4a7.png" align="center"/>
+<!-- <img src="https://user-images.githubusercontent.com/64246267/138801849-61178d29-1a9a-4723-bcb9-ac3f5d2ce4a7.png" align="center"/> -->
 </p>
 
 <p align="center" >
